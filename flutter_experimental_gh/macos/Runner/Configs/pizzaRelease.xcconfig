@@ -1,0 +1,7 @@
+#include "../../Flutter/pizzaRelease.xcconfig"
+#include "Warnings.xcconfig"
+
+FLUTTER_TARGET=lib/main_pizza.dart
+ASSET_PREFIX=pizza
+BUNDLE_NAME=Pizza App
+BUNDLE_DISPLAY_NAME=Pizza App

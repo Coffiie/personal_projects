@@ -1,0 +1,7 @@
+#include "../../Flutter/coffeeRelease.xcconfig"
+#include "Warnings.xcconfig"
+
+FLUTTER_TARGET=lib/main_coffee.dart
+ASSET_PREFIX=coffee
+BUNDLE_NAME=Coffee App
+BUNDLE_DISPLAY_NAME=Coffee App
