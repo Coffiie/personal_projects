@@ -69,9 +69,11 @@ class CallPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       body: ZegoUIKitPrebuiltCall(
-        appID: 1786311803,
+        appID: //your appID
+            123,
         appSign:
-            '4642a05f5e8803b439a2aee6d2e7cf8cb1444cb94d18f57f5f9045abb89057ec',
+            // your appSign
+            '',
         callID: callID,
         userID: '1213${Platform.operatingSystem}',
         userName: 'Rawaha${Platform.operatingSystem}',
