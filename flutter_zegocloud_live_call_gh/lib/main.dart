@@ -4,6 +4,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter_zegocloud_live_call_gh/config.dart';
 import 'package:zego_uikit_prebuilt_live_streaming/zego_uikit_prebuilt_live_streaming.dart';
 
+///This is the starter project for the Zego cloud live streaming app video.
+///Please add your own credentials in lib/config.dart in order for the project to run.
+
 void main() {
   runApp(const MyApp());
 }
